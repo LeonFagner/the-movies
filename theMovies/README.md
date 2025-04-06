@@ -1,8 +1,32 @@
-# React + Vite
+# 🎥 theMovies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+`theMovies` é um projeto desenvolvido com **React + Vite**, que funciona como uma **biblioteca de filmes**. Ele consome uma **API pública** para listar filmes, exibir detalhes como sinopse, avaliação, imagem e outros dados relevantes.
 
-Currently, two official plugins are available:
+> Este projeto foi idealizado para praticar o consumo de APIs, a criação de componentes reutilizáveis em React e o uso de hooks para gerenciamento de estado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- API Pública de Filmes (ex: [TMDB](https://www.themoviedb.org/))
+
+---
+
+## 🔍 Funcionalidades
+
+- Buscar filmes por nome
+- Listagem de filmes populares
+- Exibição de detalhes do filme: título, sinopse, nota, pôster etc.
+- Navegação entre páginas
+- Layout responsivo para mobile e desktop
+
+---
+
+## 🧪 Instalação e Execução
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/LeonFagner/theMovies.git
